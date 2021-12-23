@@ -19,7 +19,7 @@ Below are statistics summary of December's temperature.
 ## Summary
 Opening a surf and ice cream shop would sustain business year-round if only temperature was taken into consideration. Gathering more weather data will help make a more concrete descision on whether or not to open the surf and ice cream shop year-round. An addional query to perform would be to retrieve precipitation data from June and get the statistics summary. Another query to perform would be to retrieve precipitation data from December and get the statistics summary. Uncovering the trends of precipitation can be used to determine if business would be sustained in Oahu or not.
 
-Below are statistic summaries of June's and December's temperature respectively.
+Below are statistic summaries of June's and December's precipitation respectively.
 
 ![june_rain.PNG](https://github.com/jlynw/surfs-up/blob/main/Resources/june_rain.PNG) ![dec_rain.PNG](https://github.com/jlynw/surfs-up/blob/main/Resources/dec_rain.PNG)
 
